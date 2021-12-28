@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="63">
+
+    <author>StingerTopGun</author>
+    <version>1.0.0.0</version>
+
+    <title>
+		<en>Weight HUD</en>	
+	</title>
+
+	<iconFilename>modIcon.dds</iconFilename>
+	
+	<multiplayer supported="true"/>
+    
+	<description>
+        <de><![CDATA[Kleine HUD Anzeige welche das Gewicht des aktuellen Fahrzeugs, so wie das Gesamtgewicht des Fahrzeugs und aller Geräte, Anhänger und Ladungen zeigt.]]></de>
+		<en><![CDATA[Small HUD which shows the weight of your currently controlled vehicle and the total weight combined with all implements, trailes and loads.]]></en>
+    </description>
+
+	<extraSourceFiles>
+		<sourceFile filename="WeightHUD.lua" />
+	</extraSourceFiles>
+
+</modDesc>
