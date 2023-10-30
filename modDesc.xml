@@ -5,7 +5,8 @@
     <version>1.0.0.0</version>
 
     <title>
-		<en>Weight HUD</en>	
+		<en>Weight HUD</en>
+	    	<pl>HUD wagi</pl>
 	</title>
 
 	<iconFilename>modIcon.dds</iconFilename>
@@ -15,6 +16,7 @@
 	<description>
         <de><![CDATA[Kleine HUD Anzeige welche das Gewicht des aktuellen Fahrzeugs, so wie das Gesamtgewicht des Fahrzeugs und aller Geräte, Anhänger und Ladungen zeigt.]]></de>
 		<en><![CDATA[Small HUD which shows the weight of your currently controlled vehicle and the total weight combined with all implements, trailes and loads.]]></en>
+		<pl><![CDATA[To mały interfejs HUD, który pokazuje wagę Twojego obecnie kontrolowanego pojazdu oraz całkowitą wagę po zsumowaniu z wszystkimi narzędziami, przyczepami i ładunkami.]]></pl>
     </description>
 
 	<extraSourceFiles>
